@@ -1,12 +1,12 @@
 apiVersion: v1
 name: helm-cronjobs
-description: A chart for cron jobs
+description: A chart for cron jobs - originally from github.com/bambash
 version: 1.0.0
 keywords:
   - cron
-home: "https://github.com/bambash"
+home: "https://github.com/mlarrousse"
 sources:
-  - "https://github.com/bambash"
+  - "https://github.com/mlarrousse"
 maintainers:
-  - name: bambash
-    email: bambash256@gmail.com
+  - name: mlarrousse
+    email: mary.larrousse1@t-mobile.com
